@@ -1,5 +1,5 @@
 # technical-discussion
-demo repo for sharing ideas around telecommunications
+demo repo for sharing ideas around cloud computing
 
 
 ## 2nd heading for list items
