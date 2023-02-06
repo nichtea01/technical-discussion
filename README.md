@@ -15,3 +15,7 @@ This is a good example of gist [demo code](https://gist.github.com/nichtea01/39f
 ### Heading for Colab Demo
 
 This is a good example of Colab [notebook](https://colab.research.google.com/drive/1FFwjHuCqFX4c1dYSIohaWfWM-93aF653?usp=sharing)
+
+### Image
+![image](https://user-images.githubusercontent.com/89929684/217078297-e3d0943c-443b-4b4d-ba58-d1ee12e14f7e.png)
+
