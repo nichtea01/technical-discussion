@@ -10,7 +10,7 @@ demo repo for sharing ideas around cloud computing
 
 ### Heading for Mastering GitHub Markdown
 
-For additonal information on GitHub markdown syntax see [GitHub Markdown Doc](https://guides.github.com/features/mastering-markdown/) | [Github Docs](https://docs.github.com/en) 
+For additonal information on GitHub markdown syntax see [GitHub Markdown Doc](https://guides.github.com/features/mastering-markdown/) | [Quickstart for Writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github) | [Github Docs](https://docs.github.com/en) 
 
 ### Heading for Mastering Google Colab Markdown
 
