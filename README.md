@@ -8,9 +8,13 @@ demo repo for sharing ideas around cloud computing
 * list item 2
 * list item 3
 
-### Heading for Mastering Github Markdown
+### Heading for Mastering GitHub Markdown
 
-For additonal information on GitHub markdown syntax see [GitHub Markdown Doc](https://guides.github.com/features/mastering-markdown/) | [Github Docs](https://docs.github.com/en)
+For additonal information on GitHub markdown syntax see [GitHub Markdown Doc](https://guides.github.com/features/mastering-markdown/) | [Github Docs](https://docs.github.com/en) 
+
+### Heading for Mastering Google Colab Markdown
+
+For additonal information on Google colab markdown syntax see [Colab Markdown Doc](https://colab.research.google.com/notebooks/markdown_guide.ipynb?authuser=0) | [GitHub Markdown Basics](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 
 ### Heading for Gist Demo
 
