@@ -1,7 +1,6 @@
 # technical-discussion
 demo repo for sharing ideas around cloud computing
 
-
 ## Heading for list items
 
 * list item 1 
