@@ -8,9 +8,15 @@ demo repo for sharing ideas around cloud computing
 * list item 2
 * list item 3
 
+### Heading for Mastering Github Markdown
+
+For additonal information on GitHub markdown syntax see [GitHub Markdown Doc](https://guides.github.com/features/mastering-markdown/) | [Github Docs](https://docs.github.com/en)
+
 ### Heading for Gist Demo
 
 This is a good example of gist [demo code](https://gist.github.com/nichtea01/39fb8d75a372c7814b986016f757ee0f) 
+
+For additonal information on gists see [About Gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists#about-gists) | [Creating Gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists#creating-a-gist) | [Gist Home Page ](https://gist.github.com/)
 
 ### Heading for Colab Demo
 
