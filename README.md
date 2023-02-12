@@ -1,5 +1,10 @@
 # technical-discussion
-demo repo for sharing ideas around cloud computing
+demo repo for sharing ideas around cloud computing for data analysis
+
+## Heading for Project Management Docs
+
+* [Google Project Plan Spreadsheet](https://docs.google.com/spreadsheets/d/1CDsZ7i9Dq9kmGRnTURfisU-xuTs0qxlR/edit?usp=share_link&ouid=107955826579011900620&rtpof=true&sd=true)
+* [Trello Project Tracking Document](https://trello.com/invite/b/YVok1BiF/ATTIe6a6da22c7a4301b0872fb774b443ac520B04E1A/project-tracker-cloudda1)
 
 ## Heading for list items
 
@@ -26,5 +31,7 @@ For additonal information on gists see [About Gists](https://docs.github.com/en/
 This is a good example of Colab [notebook](https://colab.research.google.com/drive/1FFwjHuCqFX4c1dYSIohaWfWM-93aF653?usp=sharing)
 
 ### Image
+
+This image was created using Github Issues
 ![image](https://user-images.githubusercontent.com/89929684/217078297-e3d0943c-443b-4b4d-ba58-d1ee12e14f7e.png)
 
